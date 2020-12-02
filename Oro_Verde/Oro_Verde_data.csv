@@ -1,0 +1,4 @@
+﻿TreeType,SequestrationRate,WaterRequirement,Width,SurvivalRate,SeedlingCost,SeedlingsAvailable
+Maple,4.30,76.00,130.00,0.70,5.40,1000.00
+Elm,3.70,48.00,3600.00,0.60,3.20,500.00
+Spruce,2.80,34.00,400.00,0.80,4.50,1500.00
